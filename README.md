@@ -1,1 +1,1 @@
-# CognitiveComputing
+# Cognitive Computing
