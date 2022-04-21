@@ -1,6 +1,6 @@
 # Cognitive Computing 📊💻
 
-![alt text](https://github.com/EmersonVeras/CognitiveComputing/blob/main/banner.jpg)
+![alt text](https://github.com/EmersonVeras/CognitiveComputing/blob/main/Images/banner.jpg)
 
 # Introduction 🔍
 
