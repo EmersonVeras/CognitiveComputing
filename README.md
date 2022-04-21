@@ -15,3 +15,5 @@ Projects proposed by the Atlântico Academy Bootcamp to improve knowledge in the
 2️⃣ **[Sentimental Analysis with NLTK](https://github.com/EmersonVeras/CognitiveComputing/tree/main/NLP/trailhead/codes/Sentiment_analysis_NLTK)**
 - The data used in this practice were taken from the NLTK library, using 10,000 tweets divided equally into positive and negative. In the example, data cleaning, processing and classification methods were used. The trained data will be used to classify whether sentences have negative or positive feelings. This type of analysis serves to assist algorithms in verifying users who have a quieter or more aggressive profile.
 
+- The file [nlp_test.py](https://github.com/EmersonVeras/CognitiveComputing/blob/main/NLP/trailhead/codes/Sentiment_analysis_NLTK/nlp_test.py) is the main code.
+- The file [package.py](https://github.com/EmersonVeras/CognitiveComputing/blob/main/NLP/trailhead/codes/Sentiment_analysis_NLTK/package.py) has the fuction of downloading the packages necessary for the implementation of the example.
