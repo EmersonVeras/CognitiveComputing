@@ -17,3 +17,6 @@ Projects proposed by the Atlântico Academy Bootcamp to improve knowledge in the
 
 - The file [nlp_test.py](https://github.com/EmersonVeras/CognitiveComputing/blob/main/NLP/trailhead/codes/Sentiment_analysis_NLTK/nlp_test.py) is the main code.
 - The file [package.py](https://github.com/EmersonVeras/CognitiveComputing/blob/main/NLP/trailhead/codes/Sentiment_analysis_NLTK/package.py) has the fuction of downloading the packages necessary for the implementation of the example.
+
+:three: **[Computer Vision Tutorials](https://github.com/EmersonVeras/CognitiveComputing/tree/main/ComputerVision)**
+- Tutorials about OpenCV and Scikit_image.
